@@ -1,4 +1,4 @@
-I use data from the INEC (Instituto Nacional de Estadística y Censos de Costa Rica) / National Institute of Statistics and Censuses of Costa Rica.
+I used data from the INEC (Instituto Nacional de Estadística y Censos de Costa Rica) / National Institute of Statistics and Censuses of Costa Rica.
 
 The linear plot was made with matplotlib, and i cleaned the data using Python with Pandas
 
